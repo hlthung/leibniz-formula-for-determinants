@@ -1,0 +1,7 @@
+N = 3
+Input Matrix: 
+121
+110
+011
+
+Determinant = 0
